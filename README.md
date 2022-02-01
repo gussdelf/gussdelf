@@ -1,2 +1,2 @@
 ### Hi 
-I'm a 15 years old *"moleque"* newbie in the programming world. *(Don't expect great things from me)*
+I'm a 15 year old "moleque" and newbie to the programming world
