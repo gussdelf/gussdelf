@@ -1,2 +1,3 @@
-### Hi there 👋
-I'm just a 15 year old procastinator who is lately interested in neovim, emacs and another _"useless"_ things.
+### Hi 
+I'm a 15 years old _"moleque"_ who's learning to program 
+> Don't expect great things from me
