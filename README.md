@@ -1,1 +1,1 @@
-I don't like VimL.
+I like to configure my computer
